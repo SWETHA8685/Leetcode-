@@ -9,7 +9,7 @@ class Solution(object):
         num4.sort()
         length=len(num4)
         leng=length//2
-        if(leng)%2==0:
+        if(length)%2==0:
             mid=(num4[leng]+num4[leng-1])/2.0
             return mid
         else:
