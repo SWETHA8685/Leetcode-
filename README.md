@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SWETHA8685/Leetcode-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SWETHA8685/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0645-set-mismatch](https://github.com/SWETHA8685/Leetcode-/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SWETHA8685/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SWETHA8685/Leetcode-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SWETHA8685/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0645-set-mismatch](https://github.com/SWETHA8685/Leetcode-/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SWETHA8685/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,4 +69,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/SWETHA8685/Leetcode-/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SWETHA8685/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SWETHA8685/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
