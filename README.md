@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SWETHA8685/Leetcode-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SWETHA8685/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0645-set-mismatch](https://github.com/SWETHA8685/Leetcode-/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SWETHA8685/Leetcode-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SWETHA8685/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0645-set-mismatch](https://github.com/SWETHA8685/Leetcode-/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SWETHA8685/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/SWETHA8685/Leetcode-/tree/master/0010-regular-expression-matching) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/SWETHA8685/Leetcode-/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/SWETHA8685/Leetcode-/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
