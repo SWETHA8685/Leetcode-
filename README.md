@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SWETHA8685/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/SWETHA8685/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SWETHA8685/Leetcode-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SWETHA8685/Leetcode-/tree/master/0016-3sum-closest) |
 | [0344-reverse-string](https://github.com/SWETHA8685/Leetcode-/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SWETHA8685/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/SWETHA8685/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SWETHA8685/Leetcode-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SWETHA8685/Leetcode-/tree/master/0016-3sum-closest) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SWETHA8685/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SWETHA8685/Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/SWETHA8685/Leetcode-/tree/master/0645-set-mismatch) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SWETHA8685/Leetcode-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SWETHA8685/Leetcode-/tree/master/0016-3sum-closest) |
 | [0645-set-mismatch](https://github.com/SWETHA8685/Leetcode-/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SWETHA8685/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
