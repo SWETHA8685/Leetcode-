@@ -106,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SWETHA8685/Leetcode-/tree/master/0014-longest-common-prefix) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/SWETHA8685/Leetcode-/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
