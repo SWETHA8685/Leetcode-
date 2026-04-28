@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/SWETHA8685/Leetcode-/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/SWETHA8685/Leetcode-/tree/master/0511-game-play-analysis-i) |
 | [0595-big-countries](https://github.com/SWETHA8685/Leetcode-/tree/master/0595-big-countries) |
+| [0601-human-traffic-of-stadium](https://github.com/SWETHA8685/Leetcode-/tree/master/0601-human-traffic-of-stadium) |
 ## Backtracking
 |  |
 | ------- |
