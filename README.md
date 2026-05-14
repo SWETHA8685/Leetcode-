@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SWETHA8685/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SWETHA8685/Leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SWETHA8685/Leetcode-/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/SWETHA8685/Leetcode-/tree/master/0018-4sum) |
 | [0344-reverse-string](https://github.com/SWETHA8685/Leetcode-/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SWETHA8685/Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SWETHA8685/Leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SWETHA8685/Leetcode-/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/SWETHA8685/Leetcode-/tree/master/0018-4sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SWETHA8685/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SWETHA8685/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SWETHA8685/Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SWETHA8685/Leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SWETHA8685/Leetcode-/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/SWETHA8685/Leetcode-/tree/master/0018-4sum) |
 | [0645-set-mismatch](https://github.com/SWETHA8685/Leetcode-/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SWETHA8685/Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
