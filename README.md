@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SWETHA8685/Leetcode-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SWETHA8685/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SWETHA8685/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/SWETHA8685/Leetcode-/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/SWETHA8685/Leetcode-/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/SWETHA8685/Leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SWETHA8685/Leetcode-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SWETHA8685/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/SWETHA8685/Leetcode-/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SWETHA8685/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SWETHA8685/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SWETHA8685/Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
