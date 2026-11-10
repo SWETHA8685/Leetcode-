@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/SWETHA8685/Leetcode-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SWETHA8685/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SWETHA8685/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/SWETHA8685/Leetcode-/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,10 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/SWETHA8685/Leetcode-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SWETHA8685/Leetcode-/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SWETHA8685/Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/SWETHA8685/Leetcode-/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SWETHA8685/Leetcode-/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/SWETHA8685/Leetcode-/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/SWETHA8685/Leetcode-/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
