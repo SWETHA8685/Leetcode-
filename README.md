@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/SWETHA8685/Leetcode-/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/SWETHA8685/Leetcode-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/SWETHA8685/Leetcode-/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/SWETHA8685/Leetcode-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SWETHA8685/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SWETHA8685/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Two Pointers
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SWETHA8685/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SWETHA8685/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SWETHA8685/Leetcode-/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/SWETHA8685/Leetcode-/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SWETHA8685/Leetcode-/tree/master/0070-climbing-stairs) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SWETHA8685/Leetcode-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
