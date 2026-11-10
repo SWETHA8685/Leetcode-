@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SWETHA8685/Leetcode-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SWETHA8685/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/SWETHA8685/Leetcode-/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/SWETHA8685/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/SWETHA8685/Leetcode-/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/SWETHA8685/Leetcode-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/SWETHA8685/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SWETHA8685/Leetcode-/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SWETHA8685/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SWETHA8685/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Array
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SWETHA8685/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SWETHA8685/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SWETHA8685/Leetcode-/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/SWETHA8685/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/SWETHA8685/Leetcode-/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SWETHA8685/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SWETHA8685/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SWETHA8685/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SWETHA8685/Leetcode-/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SWETHA8685/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SWETHA8685/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Trie
 |  |
@@ -200,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SWETHA8685/Leetcode-/tree/master/0048-rotate-image) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SWETHA8685/Leetcode-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
