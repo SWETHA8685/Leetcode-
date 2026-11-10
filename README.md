@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/SWETHA8685/Leetcode-/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/SWETHA8685/Leetcode-/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/SWETHA8685/Leetcode-/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/SWETHA8685/Leetcode-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SWETHA8685/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SWETHA8685/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Two Pointers
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SWETHA8685/Leetcode-/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SWETHA8685/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/SWETHA8685/Leetcode-/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/SWETHA8685/Leetcode-/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SWETHA8685/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SWETHA8685/Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SWETHA8685/Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
